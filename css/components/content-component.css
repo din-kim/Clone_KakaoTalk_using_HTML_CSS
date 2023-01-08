@@ -16,6 +16,12 @@
   font-size: 14px;
   color: rgba(0, 0, 0, 0.6);
   margin-top: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.content-component__text__info span {
+  margin-left: 3px;
 }
 
 .content-component__text__info--img {
