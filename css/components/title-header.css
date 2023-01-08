@@ -1,0 +1,11 @@
+.title-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.title-header__right {
+  color: rgba(0, 0, 0, 0.4);
+}

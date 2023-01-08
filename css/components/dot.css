@@ -1,0 +1,8 @@
+.dot {
+  position: absolute;
+  font-size: 5px;
+  margin: 0px;
+  color: red;
+  right: 18px;
+  top: 42px;
+}

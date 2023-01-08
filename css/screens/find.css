@@ -1,0 +1,37 @@
+.main-screen {
+  padding: 0px 25px;
+}
+
+.find-menu {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0px;
+}
+
+.find-menu__column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.find-menu__column i {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.recommended-friends {
+  padding: 15px 0px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.recommended-friends__alert {
+  margin: 90px 0px;
+  text-align: center;
+  font-size: 15px;
+  color: rgba(0, 0, 0, 0.6);
+}
