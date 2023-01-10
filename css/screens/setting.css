@@ -2,17 +2,6 @@
   padding: 25px;
 }
 
-.setting-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  font-size: 20px;
-  font-weight: 600;
-  padding: 0px 25px;
-  padding-top: 40px;
-  margin-top: 20px;
-}
-
 .setting-component {
   display: flex;
   justify-content: space-between;
