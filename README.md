@@ -4,7 +4,8 @@
 - URL: https://din-kim.github.io/Clone_KakaoTalk_using_HTML_CSS/index.html
 - Learning Source: Nomad Code
 
-<b> WHAT I'VE LEARNED </b>
+### WHAT I'VE LEARNED
+
 I started programming with Python and I thought it was an wise choice
 because I was able to understand the structure of programming language from the beginnning. (Now that I think about it, it was very superficial)
 After, I did some machine learning projects using Python and its wonderful libraries like Pandas, Scikit-learn, and tensorflow.
@@ -27,7 +28,7 @@ In this course, I have learned the importance of
 
 - naming a class name that could be understood by anyone,
 - creating a component if you want to use same code without repeatition,
-- playing with tiny details that always result in a huge difference.
+- playing with tiny details having potentials to bring huge impact on the performance.
 
 I believe this learnings happen to apply everywhere in the programming world.
 There was a huge difference between doing and doing with understanding.
@@ -38,6 +39,8 @@ But I won't give up because programmer's soul and spirit keep growing in my mind
 My very next step, JavaScript.
 Can't wait. I'm looking forward to it.
 I'll be right back!
+
+===
 
 코딩을 파이썬으로 시작했습니다. 탁월한 선택이라고 생각했습니다.
 프로그래밍 언어의 구조와 구성을 알 수 있었으니까요. (지금 생각하면 피상적인 이해에 불과합니다.)
@@ -75,7 +78,3 @@ Pandas, numpy, scikit-learn and tensorflow처럼 이미 훌륭하게 완성된 �
 신속히 다음 단계인 자바스크립트로 넘어갑니다.
 그때는 또 어떤 깨달음이 기다리고 있을까요?
 기대가 됩니다. 곧 돌아오겠습니다. 안녕.
-
-<p align="center">
-  <img src="https://github.com/din-kim/Clone_KakaoTalk_using_HTML_CSS/blob/main/screenshot.jpg" />
-</p>
