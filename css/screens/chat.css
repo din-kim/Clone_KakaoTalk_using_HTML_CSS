@@ -1,8 +1,24 @@
+@keyframes fadeIn {
+  0% {
+    transform: none;
+    opacity: 0;
+  }
+  1% {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  100% {
+    transform: none;
+    opacity: 1;
+  }
+}
+
 .datetime {
   margin: 20px 0px;
   display: flex;
   justify-content: center;
   align-items: center;
+  animation: fadeIn 0.6s linear;
 }
 
 .datetime-text {
@@ -30,6 +46,7 @@
 .chat-message__text {
   display: flex;
   flex-direction: column;
+  animation: fadeIn 0.6s linear;
 }
 
 .chat-message__text--nickname {
@@ -59,6 +76,7 @@
 
 .chat-message--my {
   justify-content: flex-end;
+  animation-delay: 0.6s;
 }
 
 .chat-message__text--content--my {

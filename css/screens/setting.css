@@ -42,3 +42,17 @@
 .setting-main .border_bottom_solid {
   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
+
+.alt-header-setting {
+  background-color: rgba(0, 0, 0, 0);
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: sticky;
+  top: 30px;
+  width: 100%;
+  padding: 20px 10px;
+  box-sizing: border-box;
+  font-size: 18px;
+}

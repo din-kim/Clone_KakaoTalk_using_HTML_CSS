@@ -16,3 +16,12 @@
   margin-left: 20px;
   opacity: 0.8;
 }
+
+@keyframes spinCogBtn {
+  from {
+    transform: none;
+  }
+  to {
+    transform: rotateZ(360deg);
+  }
+}
